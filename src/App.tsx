@@ -30,7 +30,7 @@ function App() {
   return (
     <main className="font-poppins w-full h-full py-24 md:py-18 lg:py-32 xl:py-48 bg-gray-100 dark:bg-gray-800">
       <div className="container px-4 md:px-6">
-        <div className="flex flex-col items-center justify-center space-y-6 text-center">
+        <div className="flex flex-col items-center justify-center space-y-6 text-center mb-8">
           <h1 className="dark:text-neutral-100 text-slate-800 text-4xl font-bold tracking-tighter sm:text-3xl md:text-6xl lg:text-7xl">
             Image Generator
           </h1>
@@ -38,8 +38,12 @@ function App() {
             por @dansaround.dev
           </h3>
           <p className="dark:text-neutral-300 text-slate-700">
-            Escribe algo para poder generar una imagen
+            Escribe algo para poder generar una imagen, por ejemplo
           </p>
+          <span className="dark:text-neutral-400 text-slate-700 text-left text-sm max-w-72 italic ">
+            "award winning high resolution photo of a giant
+            tortoise/((ladybird)) hybrid, [trending on artstation]"
+          </span>
         </div>
         <div>
           <input
