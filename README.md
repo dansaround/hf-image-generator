@@ -4,13 +4,13 @@ Welcome to the **Image Generator** project! This project allows users to generat
 
 ## 📋 Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies](#technologies)
-- [Contributing](#contributing)
-- [Acknowledgements](#acknowledgements)
+- [Introduction](##introduction)
+- [Features](##features)
+- [Installation](##installation)
+- [Usage](##usage)
+- [Technologies](##technologies)
+- [Contributing](##contributing)
+- [Acknowledgements](##acknowledgements)
 
 ## 📖 Introduction
 
