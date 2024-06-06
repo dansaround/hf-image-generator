@@ -1,6 +1,6 @@
 import { HfInference } from "@huggingface/inference";
 import { useEffect, useState } from "react";
-import { DotLoader, PacmanLoader, PropagateLoader } from "react-spinners";
+import { DotLoader } from "react-spinners";
 
 function App() {
   const HF_TOKEN = import.meta.env.VITE_API_KEY;
