@@ -6,9 +6,9 @@ Welcome to the **Image Generator** project! This project allows users to generat
 
 - [Introduction](#-introduction)
 - [Features](#-features)
-- [Installation](#-installation)
+- [Installation](#--installation)
 - [Usage](#-usage)
-- [Technologies](#-technologies)
+- [Technologies](#--technologies)
 - [Contributing](#-contributing)
 - [Acknowledgements](#-acknowledgements)
 
